@@ -1,0 +1,19 @@
+.logo {
+  height: 50px;
+}
+.header {
+  text-align: center;
+}
+nav {
+  padding: 10px;
+  background-color: black;
+  line-height: 50px;
+  width: 100%;
+}
+nav a {
+  text-decoration: none;
+  margin: 10px;
+  padding: 5px;
+  color: white;
+  font-size: larger;
+}
